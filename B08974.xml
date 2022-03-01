@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Earle of Montague and others appellants.  Ealre of Bath and others respondents. This cause having been heard and debated de Die in Diem, from the first to the 17th of Feb. 1693.  It was then resolved, and enterd in the book of this honourable house as follows, viz.  Die Sabbath 17 die Feb. 1693.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08974</idno>
+            <idno type="STC">Wing E76A</idno>
+            <idno type="STC">ESTC R174814</idno>
+            <idno type="EEBO-CITATION">64551196</idno>
+            <idno type="OCLC">ocm 64551196</idno>
+            <idno type="VID">184537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184537)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Earle of Montague and others appellants.  Ealre of Bath and others respondents. This cause having been heard and debated de Die in Diem, from the first to the 17th of Feb. 1693.  It was then resolved, and enterd in the book of this honourable house as follows, viz.  Die Sabbath 17 die Feb. 1693.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>n.s.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bath, John Grenville, --  Earl of, 1628-1701 --  Trials, litigation, etc.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:184537:1"/> 
+                        <hi>Earle</hi> of <hi>Montague</hi> and others</cell>
+                     <cell>
+                        <hi>Appellants.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Earle</hi> of <hi>Bathe</hi> and others</cell>
+                     <cell>
+                        <hi>Reſpondents.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>THIS Cauſe having been heard and debated <hi>de Die in Diem,</hi> from the firſt to the <hi>17th</hi> of <hi>Feb.</hi> 1693. It was then Reſolved, and enter'd in the Book of this Honourable Houſe, as-follows, <hi>viz. Die Sabbathi</hi> 17 <hi>die Feb.</hi> 1693. After long Debate, this Queſtion was put. <hi>Whether the Diſmiſſion of the <hi>Court</hi> of <hi>Chancery</hi> ſhall be Reverſed?</hi>
+            </p>
+            <p>It was Reſolved in the NEGATIVE.</p>
+            <p>
+               <hi>
+                  <hi>Ordered,</hi> That the Petition of Appeal ſhall be Diſmist, and the Diſmiſſion of the Court of Chancery ſhall be Affirmed, And that what the Houſe hath done in this Caſe, ſhall be without Prejudice to any Claim or Intereſt of Mr. <hi>Pride.</hi>
+               </hi>
+            </p>
+            <p>Upon which Diſmiſſion the <hi>Reſpondents</hi> were abſolutely diſcharged from the ſaid Appeal, as all other <hi>Reſpondents</hi> have always been after a Diſmiſſion.</p>
+            <p>But on the 20th of <hi>Feb.</hi> the <hi>Appellants,</hi> by their Petition, ſet forth, That they had in their Ap<g ref="char:EOLhyphen"/>peal, wholly depended upon Matter of Equity: And therefore, in regard their Lordſhips did not think fit to Relieve them on the Matters of Equity, they prayed their Lordſhips, that in ſuch Order as ſhould paſs touching the ſaid Matters, ſuch Directions might be given, as not to preju<g ref="char:EOLhyphen"/>dice or prelude any Tryal of the Validity of the Deeds, under which the <hi>Reſpondents</hi> make <hi>Title.</hi> And that whenſoever ſuch Tryal, or Tryals ſhould be brought, the <hi>Reſpondents</hi> might be ordered to produce all ſuch Writings, and Exhibits, as have been by them proved and Exhibited in the Court of Chancery, or before their Lordſhips; and that they may not thereat give in Evidence, any Leaſe or Incumbrance, whereby to obſtruct the <hi>Tryal</hi> of the Validity of the ſaid Deeds.</p>
+            <p>
+               <hi>VVhereupon, It was then Ordered, That the Clearks do ſearch the Books for Preſidents. If at any time, after a Cauſe Diſmiſt in this Houſe; This Houſe hath ordered the Exhibits made uſe of here, to be made uſe of at a Tryal at Law, without directing that Tryal. That the Clerks report what they find, to the Houſe in this Caſe, on <hi>Friday</hi> next at Eleven of the Clock, and all the Lords, Summoned then to Attend.</hi>
+            </p>
+            <p>Which Petition as the <hi>Reſpondents</hi> are Aviſed is in its Nature an ORIGINAL CAUSE, it importing no manner of Complaint, or Appeal from any Judgment of any Inferiour Court; and the Appeal which ſtands Diſmiſt, was not to have a new <hi>Tryal,</hi> it not having been demand<g ref="char:EOLhyphen"/>ed, or denied in Chancery.</p>
+            <p>But the Appeal was only againſt the Judgment of the Court of Chancery, for diſmiſſing the <hi>Appellant's</hi> Bill in Equity.</p>
+            <p>
+               <hi>That</hi> before the Appeal, there was a Verdict for the <hi>Reſpondent's Title,</hi> by a ſpecial Jury of Sub<g ref="char:EOLhyphen"/>ſtantial and Indifferent Jurors, at a <hi>Tryal</hi> at the <hi>King's-Bench-Bar,</hi> of about twelve Hours, againſt which the <hi>Appellants</hi> never Complained, but at the Barr of this Houſe admitted the Law to be a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>That what is deſired by the <hi>Appellants</hi> by this their New Petition, is in effect to Impeach the Ver<g ref="char:EOLhyphen"/>dict, and undermine the Judgment not only of the Court of <hi>Chancery,</hi> but of this honourable Houſe, and ſhould ſuch Order be granted, as deſired, it would retain the Cauſe after Diſmiſſed. which would be a Contradiction in <hi>Terminis,</hi> and a Diſhonour to the Wiſdom and Juſtice of this Houſe, and would diſparage the <hi>Reſpondent's Title,</hi> by giving it a mark of the Diſſatisfaction of this Houſe.</p>
+            <p>The Diſmiſſion of the Bill, and Appeal puts the Parties out of Court, and as at Law a Plain<g ref="char:EOLhyphen"/>tiff Non-Suite can pray nothing; ſo neither Regularly can a Plaintiff in Equity after a Diſmiſſion.</p>
+            <p>
+               <hi>But if the Appellants think fit to have any other Tryals, they may without the Countenance of this Houſe, Try as often as they pleaſe, the Law being open.</hi>
+            </p>
+            <epigraph>
+               <q xml:lang="lat">Intereſt Reipublicae ut ſit finis Litium.</q>
+            </epigraph>
+            <pb facs="tcp:184537:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
